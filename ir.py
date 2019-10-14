@@ -2,6 +2,7 @@
 from math import log, sqrt
 from collections import defaultdict
 import nltk
+nltk.download('punkt')
 
 inverted_index = defaultdict(list)
 nos_of_documents = 1553
@@ -185,7 +186,7 @@ for word in inverted_index:
 
 print()
 while True:
-    query = raw_input("Please enter your query....")
+    query = input("Please enter your query....")
     if len(query) == 0:
         break
     query_list = get_tokenized_and_normalized_list(query)
