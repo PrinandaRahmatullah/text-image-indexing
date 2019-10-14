@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Text Indexing
 Operating System : Ubuntu 18.04.3 LTS
 Library dijalankan di Anaconda3 Distribution dan Python versi 3.7.3
@@ -45,7 +44,3 @@ Library dijalankan di Anaconda3 Distribution dan Python versi 3.7.3
 10. Kita juga dapat mengubah folder dataset menjadi yang lain dengan mengubah nama folder pada function **get_document_text_from_doc_id** pada file **ir.py**
 
 Library source : [text-search-engine](https://github.com/nilayjain/text-search-engine.git)
-=======
-# RDM-Indexing-Project
-Text dan Image Indexing ini merupakan tugas Mata Kuliah Rekayasa Data dan Multimedia Jurusan Informatika Unsyiah 2019
->>>>>>> origin/master
