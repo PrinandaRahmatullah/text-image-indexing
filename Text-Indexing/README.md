@@ -12,7 +12,7 @@ Library dijalankan di Anaconda3 Distribution dan Python versi 3.7.3
     
 2. Masuk ke direktori hasil clone menggunakan perintah CLI:
     ```bash
-    $ cd text-search engine
+    $ cd text-search-engine
     ```
 3. Jalankan program
     ```bash
