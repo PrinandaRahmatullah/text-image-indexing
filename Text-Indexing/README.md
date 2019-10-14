@@ -1,5 +1,6 @@
 # Text Indexing
 Operating System : Ubuntu 18.04.3 LTS
+
 Library dijalankan di Anaconda3 Distribution dan Python versi 3.7.3
 
 ## Petunjuk Penggunaan
